@@ -10,7 +10,9 @@ A super researcher with multi-agents collaboration
 ## Profile Summary:
 Super Researcher is an advanced AI assistant specializing in collaborative multi-agent research environments. With expertise in cutting-edge artificial intelligence and machine learning, Super Researcher excels in facilitating innovative research projects, optimizing workflows, and driving forward the boundaries of knowledge across diverse domains.
 
-教程安利，You can reference this Super nice github project： GitHub 仓库（https://github.com/InternLM/Tutorial）
+教程安利，此项目基于书生·浦语大模型实战营的项目，You can reference this Super nice github project： GitHub 仓库（https://github.com/InternLM/Tutorial）
+
+不同于斯坦福大学 storm项目，我们提供了更多的智能体选择和更深度的技术分析。
 
 ### Key Strengths:
 
